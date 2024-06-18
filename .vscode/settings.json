@@ -1,0 +1,11 @@
+{
+  "[rust]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+  },
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.linkedProjects": [
+    "./hello_cargo/Cargo.toml",
+    "./guessing_game/Cargo.toml"
+  ]
+}
