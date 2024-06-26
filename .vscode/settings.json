@@ -6,6 +6,9 @@
   "rust-analyzer.checkOnSave": true,
   "rust-analyzer.linkedProjects": [
     "./hello_cargo/Cargo.toml",
-    "./guessing_game/Cargo.toml"
+    "./guessing_game/Cargo.toml",
+    "./valiables/Cargo.toml",
+    "./data_types/Cargo.toml",
+    "./functions/Cargo.toml"
   ]
 }
