@@ -9,6 +9,8 @@
     "./guessing_game/Cargo.toml",
     "./valiables/Cargo.toml",
     "./data_types/Cargo.toml",
-    "./functions/Cargo.toml"
+    "./functions/Cargo.toml",
+    "./branches/Cargo.toml",
+    "./loops/Cargo.toml"
   ]
 }
