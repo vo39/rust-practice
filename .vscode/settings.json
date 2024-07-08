@@ -11,6 +11,7 @@
     "./data_types/Cargo.toml",
     "./functions/Cargo.toml",
     "./branches/Cargo.toml",
-    "./loops/Cargo.toml"
+    "./loops/Cargo.toml",
+    "./slice/Cargo.toml"
   ]
 }
