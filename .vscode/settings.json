@@ -1,5 +1,6 @@
 {
   "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
   },
@@ -12,6 +13,7 @@
     "./functions/Cargo.toml",
     "./branches/Cargo.toml",
     "./loops/Cargo.toml",
-    "./slice/Cargo.toml"
+    "./slice/Cargo.toml",
+    "./structs/Cargo.toml"
   ]
 }
